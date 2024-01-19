@@ -7,7 +7,6 @@ package arraydemo;
 /**
  * This is to show modification
  * @author umers
- * this is to show revert commitment
  */
 public class Student {
     private String sName;
